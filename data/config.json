@@ -1,0 +1,8 @@
+{
+    "TOKEN" : "TOKEN",
+    "PREFIX":"PREFIX",
+    "VERSION":"VERSION",
+    "OWNER_NAME":"YOUR_NAME",
+    "OWNER_ID":"YOUR_ID",
+    "welcomeCh":CHANNEL_ID-/-MEMBER-ENTER/EXIT
+}
